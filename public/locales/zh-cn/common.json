@@ -279,13 +279,20 @@
     },
     "sorted_by": "排序",
     "sorted_by_options": {
-      "latest_received": "收到时间",
-      "rarity_asc": "稀有度（从低到高）",
-      "rarity_desc": "稀有度（从高到低）",
-      "luck_desc": "幸运值",
-      "dex_desc": "敏捷度",
-      "cute_desc": "可爱度",
-      "def_desc": "防御力"
+      "time_received": "收到时间",
+      "rarity": "稀有度",
+      "luck": "幸运值",
+      "dex": "敏捷度",
+      "cute": "可爱度",
+      "def": "防御力",
+      "str": "力量度",
+      "int": "智力度",
+      "con": "宪法度"
+    },
+    "sort_order": "排序",
+    "sort_order_options": {
+      "asc": "从低到高",
+      "desc": "从高到低"
     },
     "take_off": "脱掉",
     "take_off_item": {
