@@ -76,7 +76,7 @@ const StyledMenuBar = styled.div`
   width: 100%;
   display: flex;
   justify-content: space-between;
-  padding: 20px 30px;
+  padding: 20px 20px;
 `
 
 const StyledMenuItem = styled(ContentSmall).attrs({ as: 'div' })`
